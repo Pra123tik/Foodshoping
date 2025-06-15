@@ -1,0 +1,39 @@
+/* Improved styles for Wishlist page */
+
+body {
+    background-color: #fff0f5;
+    color: #6a3a3a;
+    font-family: 'Open Sans', sans-serif;
+    margin: 40px auto;
+    max-width: 900px;
+    line-height: 1.6;
+}
+
+header h1 {
+    color: orangered;
+    font-family: 'Aclonica', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: orangered;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: indianred;
+}
+
+main section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+
+main section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}

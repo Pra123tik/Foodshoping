@@ -1,0 +1,39 @@
+/* Improved styles for About page */
+
+body {
+    background-color: #fff8f0;
+    color: #5a2a2a;
+    font-family: 'Open Sans', sans-serif;
+    margin: 40px auto;
+    max-width: 900px;
+    line-height: 1.6;
+}
+
+header h1 {
+    color: indianred;
+    font-family: 'Aclonica', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: indianred;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: coral;
+}
+
+main section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+
+main section p {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
